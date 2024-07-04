@@ -3,6 +3,9 @@
 ## Introduction
 Welcome to my Connect Four project documentation. This web-based version of the classic Connect Four game is designed to be interactive, responsive, and user-friendly. The project encapsulates modern web development practices with a focus on modular architecture and efficient state management, ensuring a seamless gameplay experience across various devices.
 
+## Play Here
+Experience the game live: [Play Connect Four](https://moayyadshahid.github.io/Connect-Four/)
+
 ## Project Structure
 The project is structured into HTML, CSS, and JavaScript files, each serving distinct roles:
 
