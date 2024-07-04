@@ -32,7 +32,7 @@ The JavaScript files utilize ES6 modules to separate concerns:
    - **Navigation**: `Navigation.js` provides seamless transitions between different views like the main menu, game view, and rules screen, enhancing the user experience without reloading the page.
 
 ## Result
-This Connect Four game is a full-featured web application that allows two players to compete in a classic game or against an AI opponent. It is designed to be visually engaging, easy to navigate, and accessible on multiple devices thanks to its responsive design. The modular JavaScript architecture allows for easy maintenance and scalability.
+This Connect Four game is a full-featured web application that allows two players to compete in a classic game or against a computer opponent. It is designed to be visually engaging, easy to navigate, and accessible on multiple devices thanks to its responsive design. The modular JavaScript architecture allows for easy maintenance and scalability.
 
 ## Conclusion
 Developed with best practices in web development, this project showcases my ability to architect and implement sophisticated web applications. It reflects a deep understanding of modern JavaScript, CSS, HTML, and responsive design principles. This documentation is aimed at providing fellow developers and recruiters with a clear view of the project's architecture and functionality, highlighting the careful consideration of design decisions and implementations.
